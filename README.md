@@ -23,4 +23,4 @@ It also features a **dark mode toggle** for a better user experience.
 
 ---
 If you want to have a sneak peek into this project, Here's the link for the project
-http://127.0.0.1:5500/index.html
+https://ashishjha84.github.io/Book-Finder/
